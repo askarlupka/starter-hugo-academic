@@ -1,84 +1,49 @@
 ---
-# Display name
-title: Alice Wu 吳恩達
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Amanda Lee Skarlupka
+role: Presidential Management Fellow (NIH PMF 2024)
+bio: " I am a 2022 Presidential Management Fellow (PMF) at the National Cancer
+  Institute (NCI)."
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - Data Sharing
+  - Data Management
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    link: /#contact
+  - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=vbmNtB4AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/askarlupka
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
+    link: https://www.linkedin.com/in/amanda-skarlupka-phd-ms-739496184/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+organizations:
+  - name: NCI - Division of Cancer Prevention
+    url: https://prevention.cancer.gov/about-dcp/staff-search/amanda-skarlupka-phd
+education:
+  courses:
+    - course: PhD in Infectious Diseases
+      institution: University of Georgia - Athens
+      year: 2021
+    - course: MS in Biostatistics and Epidemiology
+      institution: University of Georgia - School of Public Health
+      year: 2022
+    - course: "BS in Botany & BS in Microbiology "
+      institution: University of Wisconsin - Madison
+      year: 2010
+superuser: true
+status:
+  icon: ☕️
+last_name: Wu
 highlight_name: true
+first_name: Alice
+email: askarlupka@gmail.com
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+During my PhD I designed and developed an influenza neuramindase-based vaccine platform. Further, I concurrently completed a MS in Biostatistics and Epidemiology at the University of Georgia’s School of Public Health. There I was mentored under Dr. Andreas Handel and completed my concentration in Data Analysis and Modeling defining a method for quantifying the breadth of an influenza vaccine antibody response. My work at the NCI constitutes working with the principal investigators, program officers and contractors to facilitate data sharing outlined in data sharing and management plans. I also maintain interest in current research techniques and enjoy participating in outside research to see what can be brought to the cancer prevention field. By combining my expertise in experimental and computational techniques I aim to provide an interface to facilitate communication between interested parties that have differing backgrounds.
 {style="text-align: justify;"}
