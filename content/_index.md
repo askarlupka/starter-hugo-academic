@@ -16,17 +16,17 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Data Science & Visualization
+          description: R, RShiny, Biostatistics
+          icon: chart-simple
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Communication
+          description: Plain language, academic publications
+          icon: bullhorn
+          icon_pack: fas
+        - name: Project Management
+          description:
+          icon: list-check
           icon_pack: fas
   - block: experience
     content:
@@ -40,27 +40,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Presidential Mangament Fellow
+          company: National Cancer Institute 
+          company_url: 'https://www.cancer.gov/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Rockville, MD
+          date_start: '2022-06-05'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              # Responsibilities include:
 
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+        - title: Graduate Researcher
+          company: University of Georgia - Athens
+          company_url: 'www.uga.edu'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Athens, GA
+          date_start: '2016-08-11'
+          date_end: '2022-05-15'
+          description: 
     design:
       columns: '2'
   - block: accomplishments
