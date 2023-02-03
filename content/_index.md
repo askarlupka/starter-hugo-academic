@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: Amanda Lee Skarlupka
+date: 2022-02-02
 type: landing
 
 sections:
@@ -47,12 +47,7 @@ sections:
           location: Rockville, MD
           date_start: '2022-06-05'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description:
         - title: Graduate Researcher
           company: University of Georgia - Athens
           company_url: 'www.uga.edu'
