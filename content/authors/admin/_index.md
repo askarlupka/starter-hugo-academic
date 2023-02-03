@@ -1,7 +1,7 @@
 ---
 title: Amanda Lee Skarlupka
 role: Presidential Management Fellow (NIH PMF 2024)
-avatar_filename: ""
+avatar_filename: headshot_skarlupka.jpg
 bio: " I am a 2022 Presidential Management Fellow (PMF) at the National Cancer
   Institute (NCI)."
 interests:
