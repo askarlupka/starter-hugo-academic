@@ -1,7 +1,7 @@
 ---
 title: Amanda Lee Skarlupka
 role: Presidential Management Fellow (NIH PMF Class 2024)
-avatar_filename: headshot_skarlupka.jpg
+avatar_filename: /headshot_skarlupka.png
 bio: " I am a 2022 Presidential Management Fellow (PMF) at the National Cancer
   Institute (NCI) within the Division of Cancer Prevention. From June to December 2023 I will be conducting a rotation with at the NIH/OD in the [Office of Data Science Strategy](https://datascience.nih.gov/about/odss)"
 interests:
@@ -47,7 +47,7 @@ first_name: Amanda
 email: askarlupka@gmail.com
 ---
 As a Presidential Management Fellow at NIH, I have the unique opportunity to refine my leadership style while also gaining hands-on experience in project management. At NCI, I coordinate between principal investigators, program officers and contractors to facilitate data sharing outlined in data sharing and management plans. Further, I'm instrumental in planning the initial studies for the new [Cancer Screening Research Network](https://prevention.cancer.gov/major-programs/cancer-screening-research-network-csrn) being initialized in 2024. 
-During my PhD, I designed and developed an influenza neuramindase-based vaccine platform. I concurrently completed a MS in Biostatistics and Epidemiology at the University of Georgia’s School of Public Health. There I was mentored under Dr. Andreas Handel and completed my degree with a concentration in Data Analysis and Modeling defining a method for quantifying the breadth of influenza vaccine antibody responses. 
+During my PhD, I designed and developed an influenza neuramindase-based vaccine platform. I concurrently completed a MS in Biostatistics and Epidemiology at the University of Georgia’s School of Public Health. There I was mentored under [Dr. Andreas Handel](https://www.andreashandel.com/) and completed my degree with a concentration in Data Analysis and Modeling defining a method for quantifying the breadth of influenza vaccine antibody responses. 
 I maintain interest in current research techniques and enjoy participating in outside research to see what can be brought to the cancer prevention field. By combining my expertise in experimental and computational techniques I aim to provide an interface to facilitate communication between interested parties that have differing backgrounds.
 Lastly, as a first-generation college graduate, I've begun collecting different resources I find to help others that are not familiar with all of the available opportunities. 
 {style="text-align: justify;"}

@@ -40,13 +40,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Presidential Mangament Fellow
+        - title: Presidential Management Fellow
           company: National Cancer Institute 
           company_url: 'https://www.cancer.gov/'
           company_logo: org-gc
           location: Rockville, MD
           date_start: '2022-06-05'
-          date_end: ''
+          date_end: '2024-06'
           description:
         - title: Graduate Researcher
           company: University of Georgia - Athens
