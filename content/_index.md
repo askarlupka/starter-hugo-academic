@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Amanda Lee Skarlupka
-date: 2022-02-02
+date: 2023-05-03
 type: landing
 
 sections:
@@ -21,11 +21,11 @@ sections:
           icon: chart-simple
           icon_pack: fas
         - name: Communication
-          description: Plain language, academic publications
+          description: Plain language, Academic publications, Editiing
           icon: bullhorn
           icon_pack: fas
         - name: Project Management
-          description:
+          description: 
           icon: list-check
           icon_pack: fas
   - block: experience

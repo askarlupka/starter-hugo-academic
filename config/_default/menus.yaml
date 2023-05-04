@@ -36,5 +36,5 @@ main:
     weight: 30
   - name: Mid career
     url: fellowships/#midcareer
-    parents: fellowships
+    parent: fellowships
     weight: 40
