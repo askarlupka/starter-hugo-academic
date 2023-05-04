@@ -25,12 +25,16 @@ main:
   - name: Undergraduate
     parent: fellowships
     url: fellowships/#undergraduate
+    weight: 10
   - name: Post-doctoral
     url: fellowships/#Postdoctoral
     parent: fellowships
+    weight: 20
   - name: Early career
     url: fellowships/#earlycareer
     parent: fellowships
+    weight: 30
   - name: Mid career
     url: fellowships/#midcareer
     parents: fellowships
+    weight: 40
