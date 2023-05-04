@@ -9,10 +9,28 @@ main:
     weight: 10
   - name: Contact
     url: '#contact'
-    weight: 20
+    weight: 30
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: Curriculum Vitae
     url: uploads/resume.pdf
-    weight: 30
+    weight: 40
+
+# Collection of different fellowships
+  - name: Fellowships
+    url: fellowships/
+    identifier: fellowships
+    weight: 20
+  - name: Undergraduate
+    parent: fellowships
+    url: fellowships/#undergraduate
+  - name: Post-doctoral
+    url: fellowships/#Postdoctoral
+    parent: fellowships
+  - name: Early career
+    url: fellowships/#earlycareer
+    parent: fellowships
+  - name: Mid career
+    url: fellowships/#midcareer
+    parents: fellowships
