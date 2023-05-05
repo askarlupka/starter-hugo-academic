@@ -46,7 +46,7 @@ sections:
           company_logo: org-gc
           location: Rockville, MD
           date_start: '2022-06-05'
-          date_end: '2024-06'
+          date_end: ''
           description:
         - title: Graduate Researcher
           company: University of Georgia - Athens
