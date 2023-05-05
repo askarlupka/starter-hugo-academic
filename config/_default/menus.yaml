@@ -10,7 +10,7 @@ main:
 
 # Collection of different projects
   - name: Projects
-    url: 'projects/'
+    url: 'project/'
     weight: 20
 
 # Collection of different fellowships
