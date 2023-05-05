@@ -1,20 +1,6 @@
 ---
-date: "2021-12-15"
-external_link: ""
-image:
-  caption: Measles Vaccination Analysis
-  focal_point: Smart
-summary: Relationship between measles outbreaks and personal exemptions from vaccination
-tags:
-- Biostatistics 
-- Vaccination
-- Virus
-title: Measles Vaccination Analysis
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-hugodown::md_document()
+
+output: hugodown::md_document()
 ---
 
 ```{r echo = FALSE, message = FALSE, error = FALSE}
