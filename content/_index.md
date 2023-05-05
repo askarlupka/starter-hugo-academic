@@ -5,10 +5,11 @@ date: 2023-05-03
 type: landing
 
 sections:
-  - block: about.avatar
+  - block: about.biography
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
+     title: Biography
      username: admin
       # Override your bio text from `authors/admin/_index.md`?
      text:
