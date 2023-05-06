@@ -32,12 +32,20 @@ The data used for this study were gathered from two different sources. The vacci
 
 The cases from 2019 were not localized to a single state (Fig 1A). The number of cases ranged across the United States with the highest number of measles cases being in New York State (1072 cases). However, when looking at the data on a higher resolution (county level) it became clear that the cases were not evenly dispersed throughout a state (Fig 1B). Therefore, the data was analyzed at the county level to limit invalid state-level assumptions. For example, within New York state, the cases were centered around New York City. Washington and Oregon also had a high case count across the counties bordering the western coast. 
 
+![figure1](figure1.png)
+  Figure 1. Measles cases, vaccination coverage, and exemption percentages in the continental United States in 2019. Log,10 number of cases by state (A) and by county (B). Measles, mumps, and rubella (MMR) vaccination (C), personal exemption (D), medical exemption (E), and overall vaccination (F) percentages range between 0 and 100\%. Grey = no data.   
+
+
 
 The vaccination data was not available for all states. However, when looking at the vaccination data for measles, mumps, and rubella (MMR) vaccination specifically (Fig 1C), the percentage was consistently high across the available regions with an estimated mean value of 94.32\% (n = 28,324 counties, 95\% confidence interval (CI): 94.22\%, 94.43\%). The personal exemption percentages of the entire country had a mean of 6.93\% (n = 6411 counties, 95\% CI: 6.73\%, 7.13\%) (Fig 1D). The medical exemption percentages had a mean of 3.10\% (n = 12,972 counties, 95\% CI: 3.03\%, 3.18\%) (Fig 1E). The overall vaccination percent for the country was lower than that of the MMR vaccination coverage at a mean value of 92.0\% (n = 26,243 counties, 95\% CI: 91.88\%, 92.13\%) (Fig 1F). 
 
 
 After separating the vaccination data based on county, the most informative states that also had a high measles case load were Washington and Oregon. These two states were selected for further analysis to determine if there was any relation between vaccination rates and exemption percentages and case number. Figure 2 presents the exemption, vaccination, and cases for both Washington and Oregon. 
 
+
+
+![figure2](figure2.png)
+Figure 2. Measles cases, vaccination coverage, and exemption percentages in the Northwestern United States in 2019. Measles, mumps, and rubella (MMR) vaccination (A), personal exemption (B), medical exemption (C), and overall vaccination (D) percentages range between 0 and 100\%. Log,10 number of cases by county (E). Red outline = counties with measles cases. Grey = no data.
 
 Odds ratios were determined using factored continuous variables. The factor levels cutoffs were determined by the quantiles of the northwestern county data. After which the odds ratios were determined for the four quantiles compared to an outcome of presence of a cases. Each exposure was done separately (Table 1). 
 
@@ -85,44 +93,12 @@ No odds ratio was significantly different compared to the reference group. Howev
 
 ## References 
 
-1. CDC, Measles, in Epidemiology and Prevention of
-Vaccine-Preventable Diseases, J. Hamborsky, A. Kroger, and S. Wolfe,
-Editors. 2015, Public Health Foundation: Washington D.C. p. 22. 2. Rota,
-P.A., et al., Measles. Nat Rev Dis Primers, 2016. 2: p. 16049. 3.
-Dhaliwal, D. and C. Mannion, Antivaccine Messages on Facebook:
-Preliminary Audit. JMIR Public Health Surveill, 2020. 6(4): p. e18878.
-4. Geier, D.A., J.K. Kern, and M.R. Geier, Childhood MMR vaccination and
-the incidence rate of measles infection: a ten year longitudinal cohort
-study of American children born in the 1990s. BMC Pediatr, 2019. 19(1):
-p. 325. 5. Sinclair, D.R., et al., Forecasted Size of Measles Outbreaks
-Associated With Vaccination Exemptions for Schoolchildren. JAMA Netw
-Open, 2019. 2(8): p. e199768. 6. Moriarty, D., T. Umlauf, and B. Abbot,
-What’s the Measles Vaccination Rate at Your Child’s School?, in The Wall
-Street Journal. 2019. 7. Gardner, L., et al., Persistence of US measles
-risk due to vaccine hesitancy and outbreaks abroad. The Lancet
-Infectious Diseases, 2020. 20(10): p. 1114-1115. 8. RStudio-Team,
-RStudio: Integrated Development for R. 2020, RStudio, PBC: Boston, MA.
-9. Kennedy, A.M. and D.A. Gust, Measles outbreak associated with a
-church congregation: a study of immunization attitudes of congregation
-members. Public Health Rep, 2008. 123(2): p. 126-34. 10. Knol, M., et
-al., Large ongoing measles outbreak in a religious community in the
-Netherlands since May 2013. Euro Surveill, 2013. 18(36): p. pii=20580.
-
-Address for correspondence: Amanda L. Skarlupka, Center for Vaccines and
-Immunology, Department of Infectious Disease, University of Georgia, 501
-D. W. Drive, Athens, GA, 30602 USA; e-mail: <skarlupka@uga.edu>  
-
-
-
-
-  Figure 1. Measles cases, vaccination coverage, and exemption
-percentages in the continental United States in 2019. Log,10 number of
-cases by state (A) and by county (B). Measles, mumps, and rubella (MMR)
-vaccination (C), personal exemption (D), medical exemption (E), and
-overall vaccination (F) percentages range between 0 and 100\%. Grey = no
-data.   Figure 2. Measles cases, vaccination coverage, and exemption
-percentages in the Northwestern United States in 2019. Measles, mumps,
-and rubella (MMR) vaccination (A), personal exemption (B), medical
-exemption (C), and overall vaccination (D) percentages range between 0
-and 100\%. Log,10 number of cases by county (E). Red outline = counties
-with measles cases. Grey = no data.
+1. CDC, Measles, in Epidemiology and Prevention of Vaccine-Preventable Diseases, J. Hamborsky, A. Kroger, and S. Wolfe, Editors. 2015, Public Health Foundation: Washington D.C. p. 22. 
+2. Rota, P.A., et al., Measles. Nat Rev Dis Primers, 2016. 2: p. 16049. 
+3. Dhaliwal, D. and C. Mannion, Antivaccine Messages on Facebook: Preliminary Audit. JMIR Public Health Surveill, 2020. 6(4): p. e18878.
+4. Geier, D.A., J.K. Kern, and M.R. Geier, Childhood MMR vaccination and the incidence rate of measles infection: a ten year longitudinal cohort study of American children born in the 1990s. BMC Pediatr, 2019. 19(1): p. 325. 
+5. Sinclair, D.R., et al., Forecasted Size of Measles Outbreaks Associated With Vaccination Exemptions for Schoolchildren. JAMA NetwOpen, 2019. 2(8): p. e199768. 
+6. Moriarty, D., T. Umlauf, and B. Abbot, What’s the Measles Vaccination Rate at Your Child’s School?, in The Wall Street Journal. 2019. 
+7. Gardner, L., et al., Persistence of US measles risk due to vaccine hesitancy and outbreaks abroad. The Lancet Infectious Diseases, 2020. 20(10): p. 1114-1115. 
+8. RStudio-Team, RStudio: Integrated Development for R. 2020, RStudio, PBC: Boston, MA.
+9. Kennedy, A.M. and D.A. Gust, Measles outbreak associated with a church congregation: a study of immunization attitudes of congregation members. Public Health Rep, 2008. 123(2): p. 126-34. 10. Knol, M., et al., Large ongoing measles outbreak in a religious community in the Netherlands since May 2013. Euro Surveill, 2013. 18(36): p. pii=20580.
