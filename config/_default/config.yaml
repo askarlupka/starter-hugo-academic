@@ -25,6 +25,7 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+    - path: github.com/anvithks/hugo-embed-pdf-shortcode.git themes/hugo-embed-pdf-shortcode
 
 ############################
 ## ADVANCED
@@ -73,3 +74,7 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+theme:
+  - hugo-embed-pdf-shortcode
+  - base-theme
+

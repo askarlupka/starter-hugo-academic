@@ -47,6 +47,3 @@ features = ["page builder", "widgets", "themes", "search", "research publication
   name = ""
   homepage = ""
   repo = ""
-
-theme = ["hugo-embed-pdf-shortcode", "YourCurrentTheme"]
-enableInlineShortcodes = true
