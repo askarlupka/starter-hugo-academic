@@ -76,5 +76,3 @@ minify:
   _merge: deep
 theme:
   - hugo-embed-pdf-shortcode
-  - minimal
-
