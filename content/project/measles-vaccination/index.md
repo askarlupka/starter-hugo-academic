@@ -21,7 +21,7 @@ cough, runny nose and a characteristic rash. Non-immunized individuals
 have a 90\% chance of contracting the disease when exposed \[1\]. The
 live-attenuated measles vaccine should be administered in two doses at
 12 months and right before entering kindergarten, and is in combination
-with mumps and rubella as MMR \[2\].  
+with mumps and rubella as MMR \[2\].  \
 The immunity is defined to be lifelong. The vaccine is considered safe, causing mild adverse reactions
 such as fever in 5-15\% of the individuals, and a rash lasting 1-3 days
 in roughly 5\% of the individuals \[2\]. Vaccine hesitancy and
