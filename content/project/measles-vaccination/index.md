@@ -154,22 +154,40 @@ Netherlands since May 2013. Euro Surveill, 2013. 18(36): p. pii=20580.
 Address for correspondence: Amanda L. Skarlupka, Center for Vaccines and
 Immunology, Department of Infectious Disease, University of Georgia, 501
 D. W. Drive, Athens, GA, 30602 USA; e-mail: <skarlupka@uga.edu>  
+
+
 Table 1. Odds ratio of Northwestern counties’ vaccination and exemption
-percentages and the odds of having a measles case. COVERAGE ODDS RATIO
-P-VALUE OVERALL VACCINATION 93-98% Ref 89-93% 5.36 0.113 83-89% 2.55
-0.440 53-83% 0.89 0.944 MMR VACCINATION 95-100% Ref 92-95% 5.25 0.133
-89-92% 3.23 0.327 71-89% 1.76 0.673 PERSONAL EXEMPTION 0.75-3% Ref
-3-5.4% 6.02 0.086 5.4-7.1% 3.45 0.300 7.1-29.2% 1.00 1.00 MEDICAL
-EXEMPTION 0-0.5% Ref 0.5 – 2.0% 0.64 0.665 2-13.7% 0.59 0.555
+percentages and the odds of having a measles case. 
+|	COVERAGE	|	ODDS RATIO	|	P-VALUE	| 
+| 	:----:			|  :----:			| :----:		|
+| OVERALL VACCINATION |   			| 			|
+| 	93-98\%		| 	Ref  			|			|	
+| 	89-93\%         	|   	5.36      		|    	0.113   	| 
+| 	83-89\% 		|	2.55			|	0.440	|
+|	53-83\% 		|	0.89 			|	0.944	|
+| MMR VACCINATION | 				|			|
+| 	95-100\%		|	Ref			|			|
+|	92-95\%		|	5.25			|	0.133	|
+|	89-92\%		|	3.23			|	0.327	|
+| 	71-89\%		|	1.76			|	0.673	|
+| PERSONAL EXEMPTION |			| 			|
+|	0.75-3\%		|	Ref			|			|
+|	3-5.4\%		|	6.02			|	0.086	|
+|	5.4-7.1\%		|	3.45			|	0.300	|
+|	7.1-29.2\%	|	1.00			|	1.00		|
+| MEDICAL EXEMPTION |				|			|
+|	0-0.5\%		|	Ref			| 			|
+|	0.5 – 2.0\%	| 	0.64			| 	0.665	|
+|	2-13.7\%		|	0.59			|	0.555	|
 
   Figure 1. Measles cases, vaccination coverage, and exemption
 percentages in the continental United States in 2019. Log,10 number of
 cases by state (A) and by county (B). Measles, mumps, and rubella (MMR)
 vaccination (C), personal exemption (D), medical exemption (E), and
-overall vaccination (F) percentages range between 0 and 100%. Grey = no
+overall vaccination (F) percentages range between 0 and 100\%. Grey = no
 data.   Figure 2. Measles cases, vaccination coverage, and exemption
 percentages in the Northwestern United States in 2019. Measles, mumps,
 and rubella (MMR) vaccination (A), personal exemption (B), medical
 exemption (C), and overall vaccination (D) percentages range between 0
-and 100%. Log,10 number of cases by county (E). Red outline = counties
+and 100\%. Log,10 number of cases by county (E). Red outline = counties
 with measles cases. Grey = no data.
