@@ -2,7 +2,7 @@
 
 ### Amanda L. Skarlupka
 
-### Affiliations: Center for Vaccines and Immunology, Department of Infectious Diseases, University of Georgia, Athens, GA.
+### Report written for Fall 2020 BIOS7500
 
 ## Abstract
 
@@ -81,6 +81,7 @@ The highest overall vaccination coverage of 93-98\% was used as the reference. T
 
 
 For personal exemptions, the lowest percentage was used as the reference, 0.75-3\%. The 3-5.4\% percentage had an odds ratio of 6.02, and the 5.4-7.1\% had an odds ratio of 3.45. The highest exposure, 7.1-29.2\% had an odds ratio of 1.00. The p-values were not significant. However, the 3-5.4\% group had the lowest p-value of the odds ratio of 0.086. This relationship along with the previous case of overall vaccination coverage should be investigated further. The medical exemption category 0-0.5\% was used as the reference. The 0.5-2.0\% group had an odds ratio of 0.64 and the 2-13.7\% group had a ratio of 0.59, with non-significant p-values.
+
 ## Discussion
 
 No odds ratio was significantly different compared to the reference group. However, some of the groups were close to significant. The 3-5.4\% compared to 0.75-3\% personal exemption group had an odds ratio of 6.02 with a p-value of 0.086. Although this was not significant this indicates something further to look into. With only 73 cases in the two states and by creating four different factors the data may not be factored adequately. When comparing medical exemptions, there was no factor that was close to being significant. Thus medical exemptions may not contribute to the odds of a measles outbreak as much as personal exemptions.  
