@@ -13,9 +13,9 @@ main:
     url: 'project/'
     weight: 20
 
-# Recorded presentations
-  - name: Presentations
-    url: 'event/'
+# Publications
+  - name: Publications
+    url: 'publication/'
     weight: 30
 
 # Collection of different fellowships

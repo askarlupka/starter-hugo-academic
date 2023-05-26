@@ -21,7 +21,7 @@ sections:
           icon: chart-simple
           icon_pack: fas
         - name: Communication
-          description: Plain language, Academic publications, Editiing
+          description: Plain language, Academic publications, Editing
           icon: bullhorn
           icon_pack: fas
         - name: Project Management
