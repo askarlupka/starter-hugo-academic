@@ -36,7 +36,7 @@ featured: false
 
 # links:
 # - name: ""
-url: 'https://doi.org/10.3390%2Fv15010184'
+# url: ''
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
