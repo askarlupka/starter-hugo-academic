@@ -9,9 +9,9 @@ main:
     weight: 10
 
 # Collection of different projects
-  - name: Projects
-    url: 'project/'
-    weight: 20
+#  - name: Projects
+#    url: 'project/'
+#    weight: 20
 
 # Publications
   - name: Publications

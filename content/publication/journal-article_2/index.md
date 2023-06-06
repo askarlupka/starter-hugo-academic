@@ -1,5 +1,5 @@
 ---
-title: "Multi-Influenza {HA} Subtype Protection of Ferrets Vaccinated with an N1 {COBRA}-Based Neuraminidase"
+title: "Multi-Influenza HA Subtype Protection of Ferrets Vaccinated with an N1 COBRA-based Neuraminidase"
 authors:
 - Amanda L. Skarlupka
 - Xiaojian Zhang
@@ -65,7 +65,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
