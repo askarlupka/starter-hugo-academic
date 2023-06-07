@@ -50,6 +50,3 @@ categories:
 
 * Eligibility requirements are listed on the [website](https://cpfp.cancer.gov/). 
 
-## License
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.

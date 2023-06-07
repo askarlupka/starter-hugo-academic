@@ -44,7 +44,3 @@ categories:
 Here is a list of different opportunities for early career researchers:
 
 
-
-## License
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
