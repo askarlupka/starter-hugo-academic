@@ -31,14 +31,14 @@ main:
     url: fellowships/postdoctoral/
     parent: fellowships
     weight: 20
-  - name: Early career
-    url: fellowships/earlycareer/
-    parent: fellowships
-    weight: 30
-  - name: Mid career
-    url: fellowships/midcareer/
-    parent: fellowships
-    weight: 40
+ # - name: Early career
+ #   url: fellowships/earlycareer/
+ #   parent: fellowships
+ #   weight: 30
+ # - name: Mid career
+ #   url: fellowships/midcareer/
+ #   parent: fellowships
+ #   weight: 40
 
 # Redirect down to contact form
   - name: Contact

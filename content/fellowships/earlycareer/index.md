@@ -47,6 +47,4 @@ Here is a list of different opportunities for early career researchers:
 
 ## License
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
 Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
