@@ -4,7 +4,7 @@ authors:
 - Amanda L. Skarlupka
 author_notes:
 date: "2022-05-01T00:00:00Z"
-doi: "10.1128/jvi.01791-21"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2022-05-01T00:00:00Z"
@@ -31,8 +31,8 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: 'skarlupka_amanda_l_202205_phd.pdf'
+url: "https://esploro.libs.uga.edu/esploro/outputs/doctoral/Broadly-reactive-influenza-neuraminidase-specific-antibody-mediated/9949450529302959?institution=01GALI_UGA"
+url_pdf: 'publication/skarlupka-2022-a/skarlupka_amanda_l_202205_phd.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -62,13 +62,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
