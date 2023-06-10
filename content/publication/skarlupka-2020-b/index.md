@@ -7,5 +7,8 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Data in Brief*"
+url_dataset: 'https://data.mendeley.com/datasets/rssdph9527'
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S235234092031012X?via%3Dihub"
+doi: "10.1016/j.dib.2020.106118"
 ---
 
