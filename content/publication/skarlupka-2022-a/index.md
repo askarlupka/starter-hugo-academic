@@ -31,7 +31,7 @@ featured: false
 
 # links:
 # - name: ""
-url: 'https://esploro.libs.uga.edu/esploro/outputs/doctoral/Broadly-reactive-influenza-neuraminidase-specific-antibody-mediated/9949450529302959?institution=01GALI_UGA'
+url: "https://esploro.libs.uga.edu/esploro/outputs/9949450529302959"
 url_pdf: 'publication/skarlupka-2022-a/skarlupka_amanda_l_202205_phd.pdf'
 url_code: ''
 url_dataset: ''
