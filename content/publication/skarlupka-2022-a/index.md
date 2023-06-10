@@ -25,20 +25,20 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags:
-- Source Themes
+#tags:
+#- 
 featured: false
 
 links:
  - name: "At UGA's Library"
- - url: "https://esploro.libs.uga.edu/esploro/outputs/9949450529302959"
+ - url: 'https://esploro.libs.uga.edu/esploro/outputs/9949450529302959'
 url_pdf: 'publication/skarlupka-2022-a/skarlupka_amanda_l_202205_phd.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://esploro.libs.uga.edu/esploro/outputs/9949450529302959'
+url_source: ''
 url_video: ''
 
 # Featured image
