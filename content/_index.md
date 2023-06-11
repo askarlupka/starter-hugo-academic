@@ -43,7 +43,7 @@ sections:
         - title: Presidential Management Fellow
           company: National Cancer Institute 
           company_url: 'https://www.cancer.gov/'
-          #company_logo: org-pmf
+          company_logo: org-pmf
           location: Rockville, MD
           date_start: '2022-06-05'
           date_end: ''
@@ -51,10 +51,26 @@ sections:
         - title: Graduate Researcher
           company: University of Georgia - Athens
           company_url: 'https://www.uga.edu/'
-          #company_logo: org-uga
+          company_logo: org-uga
           location: Athens, GA
           date_start: '2016-08-11'
           date_end: '2022-05-15'
+          description: 
+        - title: Associate Research Specialist
+          company: Food Research Institute, University of Wisconsin
+          company_url: 'https://www.fri.wisc.edu/'
+          company_logo: org-uw
+          location: Madison, WI
+          date_start: '2014-07-01'
+          date_end: '2016-07-31'
+          description: 
+        - title: Undergraduate Researcher
+          company: University of Wisconsin
+          company_url: 'https://www.wisc.edu/'
+          #company_logo: org-uw
+          location: Madison, WI
+          date_start: '2013-02-01'
+          date_end: '2014-05-15'
           description: 
     design:
       columns: '2'
