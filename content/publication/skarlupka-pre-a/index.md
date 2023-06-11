@@ -9,7 +9,7 @@ featured: false
 publication: "In Preparation"
 url_pdf: ""
 doi: ""
-url_project: "/skarlupka-2022-b/"
+url_project: "/publication/skarlupka-2022-b/"
 
 ---
 

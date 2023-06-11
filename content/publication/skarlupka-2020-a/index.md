@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Vaccine*"
-doi: "10.1016/j.vaccine/2020.06.042"
+doi: "10.1016/j.vaccine.2020.06.042"
 
 url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S0264410X20308288'
 url_dataset: 'https://data.mendeley.com/datasets/rssdph9527'

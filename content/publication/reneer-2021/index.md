@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*mSphere*"
-url_pdf: "https://doi.org/10.1128%2Fmsphere.00052-21"
+url_pdf: "/publication/reneer-2021/msphere.00052-21.pdf"
 doi: "10.1128/msphere.00052-21"
 ---
 
