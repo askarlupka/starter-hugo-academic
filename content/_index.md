@@ -43,15 +43,15 @@ sections:
         - title: Presidential Management Fellow
           company: National Cancer Institute 
           company_url: 'https://www.cancer.gov/'
-          company_logo: org-gc
+          #company_logo: org-pmf
           location: Rockville, MD
           date_start: '2022-06-05'
           date_end: ''
           description:
         - title: Graduate Researcher
           company: University of Georgia - Athens
-          company_url: 'www.uga.edu'
-          company_logo: org-x
+          company_url: 'https://www.uga.edu/'
+          #company_logo: org-uga
           location: Athens, GA
           date_start: '2016-08-11'
           date_end: '2022-05-15'
