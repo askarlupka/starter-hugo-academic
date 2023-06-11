@@ -3,7 +3,7 @@ title: Amanda Lee Skarlupka, PhD, MS
 role: Presidential Management Fellow (NIH PMF Class 2024)
 avatar_filename: avatar.png
 bio: " I am a 2022 [Presidential Management Fellow](https://www.pmf.gov) (PMF) at the [National Cancer
-  Institute](https://www.canver.gov) (NCI) within the [Division of Cancer Prevention](https://www.prevention.cancer.gov). From June to December 2023 I will be conducting a rotation with at the NIH/OD in the [Office of Data Science Strategy](https://www.datascience.nih.gov/about/odss)"
+  Institute](https://www.cancer.gov) (NCI) within the [Division of Cancer Prevention](https://www.prevention.cancer.gov). From June to December 2023 I will be conducting a rotation with at the NIH/OD in the [Office of Data Science Strategy](https://www.datascience.nih.gov/about/odss)"
 interests:
   - Artificial Intelligence
   - Data Sharing
