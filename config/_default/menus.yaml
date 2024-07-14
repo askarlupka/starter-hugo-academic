@@ -19,26 +19,26 @@ main:
     weight: 30
 
 # Collection of different fellowships
-  - name: Fellowships
-    url: fellowships/
-    identifier: fellowships
-    weight: 40
-  - name: Undergraduate
-    parent: fellowships
-    url: fellowships/undergraduate/
-    weight: 10
-  - name: Post-doctoral
-    url: fellowships/postdoctoral/
-    parent: fellowships
-    weight: 20
+#  - name: Fellowships
+#    url: fellowships/
+#    identifier: fellowships
+#    weight: 40
+#  - name: Undergraduate
+#    parent: fellowships
+#    url: fellowships/undergraduate/
+#    weight: 10
+#  - name: Post-doctoral
+#    url: fellowships/postdoctoral/
+#    parent: fellowships
+#    weight: 20
  # - name: Early career
  #   url: fellowships/earlycareer/
  #   parent: fellowships
  #   weight: 30
-  - name: Mid career
-    url: fellowships/midcareer/
-    parent: fellowships
-    weight: 40
+#  - name: Mid career
+#    url: fellowships/midcareer/
+#    parent: fellowships
+#    weight: 40
 
 # Redirect down to contact form
   - name: Contact
