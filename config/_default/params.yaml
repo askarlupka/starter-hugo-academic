@@ -42,8 +42,8 @@ header:
 # Site footer
 
 footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+  copyright: 'This website was prepared by Amanda Skarlupka in her personal capacity. The opinions expressed in this website are the authors own and do not reflect the view of the National Institutes of Health, the Department of Health and Human Services, or the United States government.'
+    notice: '© {year} Amanda Skarlupka. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
