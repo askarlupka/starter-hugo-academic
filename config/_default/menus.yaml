@@ -1,52 +1,17 @@
 # Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
+#   To link a homepage section, specify the URL as a hash `#` followed by the
+#   section's `id`. The weight parameter defines the order of the links.
 
 main:
-  - name: Home
-    url: '#about'
+  - name: Bio
+    url: /
     weight: 10
-
-# Collection of different projects
-#  - name: Projects
-#    url: 'project/'
-#    weight: 20
-
-# Publications
   - name: Publications
-    url: 'publication/'
+    url: /#publications
+    weight: 20
+  - name: Experience
+    url: experience/
     weight: 30
-
-# Collection of different fellowships
-#  - name: Fellowships
-#    url: fellowships/
-#    identifier: fellowships
-#    weight: 40
-#  - name: Undergraduate
-#    parent: fellowships
-#    url: fellowships/undergraduate/
-#    weight: 10
-#  - name: Post-doctoral
-#    url: fellowships/postdoctoral/
-#    parent: fellowships
-#    weight: 20
- # - name: Early career
- #   url: fellowships/earlycareer/
- #   parent: fellowships
- #   weight: 30
-#  - name: Mid career
-#    url: fellowships/midcareer/
-#    parent: fellowships
-#    weight: 40
-
-# Redirect down to contact form
-  - name: Contact
-    url: '#contact'
-    weight: 50
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-  - name: Curriculum Vitae
+  - name: CV
     url: uploads/resume.pdf
-    weight: 60
+    weight: 40

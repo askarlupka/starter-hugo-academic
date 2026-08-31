@@ -1,0 +1,153 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Amanda Skarlupka
+  given: Amanda
+  family: Skarlupka
+  alternate: ''
+  pronunciation: ''
+  pronouns: she/her
+postnominals:
+  - PhD
+  - MS
+status:
+  icon: "☕️"
+role: Senior Program Manager at Vivli
+bio: |
+  I'm an infectious disease and data scientist advancing public health
+  through ethical, FAIR, and impactful data sharing. At Vivli, I lead
+  member engagement and strategic planning for the Antimicrobial
+  Resistance (AMR) Register and serve as a subject matter expert in data
+  governance and international data sharing. My work bridges researchers,
+  clinicians, and data scientists to drive innovation in health equity,
+  AI ethics, and open science.
+
+affiliations:
+  - name: Vivli
+    url: https://vivli.org/
+
+links:
+  - icon: at-symbol
+    url: mailto:askarlupka@gmail.com
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/askarlupka
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/amanda-skarlupka/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=vbmNtB4AAAAJ&hl=en
+
+interests:
+  - Data governance & FAIR / CARE / TRUST data sharing
+  - Antimicrobial resistance (AMR) surveillance
+  - Responsible AI / ML & data ethics
+  - Program & portfolio management
+
+education:
+  - degree: PhD in Infectious Diseases
+    institution: University of Georgia
+    year: 2022
+  - degree: MS in Epidemiology & Biostatistics
+    institution: University of Georgia
+    year: 2022
+  - degree: BS in Microbiology
+    institution: University of Wisconsin–Madison
+    year: 2014
+  - degree: BS in Botany
+    institution: University of Wisconsin–Madison
+    year: 2014
+
+experience:
+  - role: Senior Program Manager
+    org: Vivli
+    start: 2025-04-01
+    summary: |
+      Lead member engagement and strategic planning for the AMR Register, a
+      global repository for antimicrobial resistance surveillance data.
+      Subject matter expert in data governance and international data sharing
+      (FAIR principles, EHDS). Founded and lead Vivli's Office of Program
+      Management, driving metrics-driven, data-informed decisions across a
+      portfolio of active projects, and contribute to the NIH-funded GREI
+      initiative on AI metadata curation and data standards.
+  - role: Health Scientist Administrator – Program Officer
+    org: National Cancer Institute (NCI)
+    start: 2024-06-01
+    end: 2025-04-30
+    summary: |
+      Built the data science and AI research program for the Division of
+      Cancer Prevention. Managed grants, contracts, and interagency
+      agreements, published funding opportunities, and served as Executive
+      Secretary for the NIH GREI Council of Councils Working Group. Two-time
+      NCI Director's Award recipient.
+  - role: Presidential Management Fellow
+    org: National Institutes of Health
+    start: 2022-06-01
+    end: 2024-06-30
+    summary: |
+      Selected from 6,800 applicants for the federal government's premier
+      leadership development program. Evaluated data resources and data
+      science programs across NCI and the NIH Office of Data Science
+      Strategy, and authored an AI "Bold Prediction" incorporated into the
+      NIH-wide Strategic Plan.
+  - role: Computational Researcher & Statistician
+    org: University of Georgia
+    start: 2020-01-01
+    end: 2022-05-31
+    summary: |
+      Conducted independent computational research quantifying the breadth
+      of influenza vaccine protection, using multidimensional scaling, PCA,
+      and machine learning on a high-performance computing cluster.
+  - role: Experimental Researcher
+    org: University of Georgia, College of Veterinary Medicine
+    start: 2018-01-01
+    end: 2022-05-31
+    summary: |
+      Designed and published preclinical evidence for broadly protective
+      influenza vaccine candidates, computationally designed vaccine
+      components (patent pending), and conducted research in a BSL-3
+      facility.
+  - role: Associate Research Specialist
+    org: Food Research Institute, University of Wisconsin–Madison
+    start: 2014-07-01
+    end: 2016-07-31
+    summary: |
+      Designed and ran pathogen growth and thermal-inactivation studies for
+      industry clients, authored protocols, analyzed results, and briefed
+      stakeholders.
+
+skills:
+  - name: Program & Data Leadership
+    items:
+      - label: Program & Portfolio Management (Jira)
+        level: 5
+      - label: Data Governance & Sharing Policy (FAIR / CARE / TRUST)
+        level: 5
+      - label: Strategic Planning & Impact Assessment
+        level: 5
+      - label: Grants, Contracts & Interagency Agreements
+        level: 4
+  - name: Technical
+    items:
+      - label: R
+        level: 5
+      - label: Python
+        level: 4
+      - label: Biostatistics & Reproducible Analysis
+        level: 4
+      - label: AI / ML Governance & Evaluation
+        level: 4
+
+awards:
+  - title: NCI Director's Award – Artificial Intelligence Working Group
+    awarder: National Cancer Institute
+    date: "2024-01-01"
+    icon: hero/trophy
+  - title: NCI Director's Award – Vanguard Study Assay Verification & Selection Working Group
+    awarder: National Cancer Institute
+    date: "2024-01-01"
+    icon: hero/trophy
+  - title: NIH Office of the Director Honor Award – Emerging Leader
+    awarder: National Institutes of Health
+    date: "2023-01-01"
+    icon: hero/trophy

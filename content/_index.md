@@ -1,104 +1,61 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Amanda Lee Skarlupka
+title: ''
+summary: ''
 date: 2023-05-03
 type: landing
 
 sections:
-  - block: about.avatar
-    id: about
+  - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-     username: admin
-      # Override your bio text from `authors/admin/_index.md`?
-     text:
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Data Science & Visualization
-          description: R, RShiny, Biostatistics
-          icon: chart-simple
-          icon_pack: fas
-        - name: Communication
-          description: Plain language, Academic publications, Editing
-          icon: bullhorn
-          icon_pack: fas
-        - name: Project Management
-          description: 
-          icon: list-check
-          icon_pack: fas
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Health Scientist Administrator - Program Officer
-          company: National Cancer Institute
-          compnay_url: 'https://www.cancer.gov/'
-          location: Rockville, MD
-          date_start: '2024-06-05'
-          date_end: ''
-        - title: Presidential Management Fellow
-          company: National Cancer Institute 
-          company_url: 'https://www.cancer.gov/'
-          #company_logo: org-pmf
-          location: Rockville, MD
-          date_start: '2022-06-05'
-          date_end: '2024-06-04'
-          description:
-        - title: Graduate Researcher
-          company: University of Georgia - Athens
-          company_url: 'https://www.uga.edu/'
-          #company_logo: org-uga
-          location: Athens, GA
-          date_start: '2016-08-11'
-          date_end: '2022-05-15'
-          description: 
-        - title: Associate Research Specialist
-          company: Food Research Institute, University of Wisconsin
-          company_url: 'https://www.fri.wisc.edu/'
-          #company_logo: org-uw
-          location: Madison, WI
-          date_start: '2014-07-01'
-          date_end: '2016-07-31'
-          description: 
-        - title: Undergraduate Researcher
-          company: University of Wisconsin
-          company_url: 'https://www.wisc.edu/'
-          #company_logo: org-uw
-          location: Madison, WI
-          date_start: '2013-02-01'
-          date_end: '2014-05-15'
-          description: 
+      username: me
+      text: ''
+      # Show a call-to-action button under your biography? (optional)
+      button:
+        text: Download CV
+        url: uploads/resume.pdf
+      headings:
+        about: ''
+        education: ''
+        interests: ''
     design:
-      columns: '2'
-
-  - block: contact
-    id: contact
+      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
+      background:
+        gradient_mesh:
+          enable: true
+      # Name heading sizing to accommodate long or short names
+      name:
+        size: md # Options: xs, sm, md, lg (default), xl
+      # Avatar customization
+      avatar:
+        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        shape: circle # Options: circle (default), square, rounded
+  - block: markdown
     content:
-      title: Contact
-      subtitle:
+      title: 'What I work on'
+      subtitle: ''
       text: |-
-        Please fill out the following form to contact me:
+        I help research and data-sharing programs run well. That means turning
+        complex, multi-stakeholder initiatives into documented, metrics-driven
+        operations, and translating fluently between scientists, engineers,
+        policy staff, and leadership.
 
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
+        My focus areas are antimicrobial resistance (AMR) surveillance data,
+        FAIR and responsible data governance, and the ethical use of AI and
+        machine learning in public health. I care about inclusive research
+        design and building the trust that makes data reuse possible.
     design:
-      columns: '2'
+      columns: '1'
+  - block: collection
+    id: publications
+    content:
+      title: Publications
+      text: ''
+      filters:
+        folders:
+          - publications
+        exclude_featured: false
+    design:
+      view: citation
 ---
